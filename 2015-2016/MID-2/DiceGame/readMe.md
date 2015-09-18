@@ -8,7 +8,7 @@ Pour faire fonctionner ces scripts, vous devez:
 Il faut lancer MAMP et vérifier que vous tombiez sur une page accessible à l'addresse http://localhost ou http://localhost:8888 si vous fonctionnez sur les port par défaut de MAMP
 Il faut également lancer le serveur NODE en executant la commande "node Node_server/diceServer.js" depuis le terminal. Attention suivant où vous êtes positionnés dans l'arborescence, il faudra peut-etre vous déplacer dnas un autre dossier avec la commande "cd2".
 
-<b>Connexion du dé sur iphone et synchronisation avec le jeu correspondant</a>
+<b>Connexion du dé sur iphone et synchronisation avec le jeu correspondant</b>
 Afin de faciliter le pairing entre le dé et l'interface, une palette de couleurs s'affiche lorsque l'utilisateur se connect au serveur, et il suffit de cliquer sur la couleur correspopndante pour faire correspondre le dé avec l'écran en question.
 
 <b>Script detail</b>
