@@ -1,0 +1,252 @@
+ {"frames": [
+
+{
+	"filename": "tumb00.png",
+	"frame": {"x":620,"y":876,"w":202,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":148,"w":202,"h":222},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb01.png",
+	"frame": {"x":810,"y":1100,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":150,"w":200,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb02.png",
+	"frame": {"x":608,"y":1106,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":150,"w":200,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb03.png",
+	"frame": {"x":604,"y":1330,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":149,"w":200,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb04.png",
+	"frame": {"x":810,"y":1322,"w":200,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":149,"w":200,"h":218},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb05.png",
+	"frame": {"x":2,"y":1342,"w":200,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":149,"w":200,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb06.png",
+	"frame": {"x":206,"y":888,"w":202,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":149,"w":202,"h":214},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb07.png",
+	"frame": {"x":2,"y":904,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":150,"w":202,"h":212},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb08.png",
+	"frame": {"x":208,"y":672,"w":204,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":150,"w":204,"h":214},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb09.png",
+	"frame": {"x":626,"y":658,"w":206,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":149,"w":206,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb10.png",
+	"frame": {"x":638,"y":220,"w":208,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":150,"w":208,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb11.png",
+	"frame": {"x":640,"y":2,"w":210,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":150,"w":210,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb12.png",
+	"frame": {"x":216,"y":2,"w":210,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":149,"w":210,"h":218},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb13.png",
+	"frame": {"x":2,"y":2,"w":212,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":149,"w":212,"h":218},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb14.png",
+	"frame": {"x":428,"y":2,"w":210,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":150,"w":210,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb15.png",
+	"frame": {"x":428,"y":220,"w":208,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":150,"w":208,"h":216},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb16.png",
+	"frame": {"x":626,"y":438,"w":206,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":149,"w":206,"h":218},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb17.png",
+	"frame": {"x":414,"y":662,"w":204,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":148,"w":204,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb18.png",
+	"frame": {"x":414,"y":884,"w":202,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":149,"w":202,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb19.png",
+	"frame": {"x":2,"y":1118,"w":200,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":148,"w":200,"h":222},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb20.png",
+	"frame": {"x":408,"y":1106,"w":198,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":149,"w":198,"h":222},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb21.png",
+	"frame": {"x":404,"y":1330,"w":198,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":149,"w":198,"h":222},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb22.png",
+	"frame": {"x":204,"y":1330,"w":198,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":149,"w":198,"h":224},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb23.png",
+	"frame": {"x":206,"y":1104,"w":200,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":149,"w":200,"h":224},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb24.png",
+	"frame": {"x":2,"y":676,"w":202,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":148,"w":202,"h":226},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb25.png",
+	"frame": {"x":2,"y":448,"w":204,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":148,"w":204,"h":226},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb26.png",
+	"frame": {"x":210,"y":222,"w":206,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":149,"w":206,"h":224},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb27.png",
+	"frame": {"x":2,"y":222,"w":206,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":148,"w":206,"h":224},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb28.png",
+	"frame": {"x":418,"y":438,"w":206,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":148,"w":206,"h":222},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "tumb29.png",
+	"frame": {"x":208,"y":448,"w":204,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":148,"w":204,"h":222},
+	"sourceSize": {"w":500,"h":500}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "medusa.png",
+	"format": "RGBA8888",
+	"size": {"w":1012,"h":1560},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:05a604b7c3876e48c65613e7a9faa67c$"
+}
+}
