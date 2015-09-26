@@ -25,17 +25,27 @@ Le rendu sera une démonstration live de l’application fonctionnelle sur iPad.
 
 <b>Calendrier</b>
 
-<b>25.09 (ve)</b> Présentation d’EJECTA et d’OPENFRAMEWORKS
-<b>16.10 (ve)</b> Présentation de 3 pistes valables, documentées sérieusement
-                  (PDF, Videos de simulation, références...)
-                  Chaque piste devrait avoir un univers graphique précis et identifié
-                  La présentation étant collective, toute la classe participera à l’évaluation de l’idée la meilleur des 3
-<b>29.10 (je)</b> Présentation d’une video de présentation du projet sélectionné
-                  Mise en place des principes interactif en simulation videos
-                  Cette présentation animée devra être la base de travail pour l’intégration technique.
-                  Début de la conception technique
-                  !! Attention, il y a un mois de travail dans cet interval. Des points hebdomadaires seront à
-                  effectuer auprès de Tibor.
-<b/>30.11 (lu)</b> Entretiens, discussion technique et conceptuelle
-<b/>17.12 (je)</b> Entretiens, discussion technique et conceptuelle
-<b/>07.01 (je)</b> Présentation fonctionnelle
+<b>25.09 (ve)</b> 
+Présentation d’EJECTA et d’OPENFRAMEWORKS
+
+<b>16.10 (ve)</b> 
+Présentation de 3 pistes valables, documentées sérieusement
+(PDF, Videos de simulation, références...)
+Chaque piste devrait avoir un univers graphique précis et identifié
+La présentation étant collective, toute la classe participera à l’évaluation de l’idée la meilleur des 3
+
+<b>29.10 (je)</b> 
+Présentation d’une video de présentation du projet sélectionné
+Mise en place des principes interactif en simulation videos
+Cette présentation animée devra être la base de travail pour l’intégration technique.
+Début de la conception technique
+!! Attention, il y a un mois de travail dans cet interval. Des points hebdomadaires seront à effectuer auprès de Tibor.
+
+<b/>30.11 (lu)</b> 
+Entretiens, discussion technique et conceptuelle
+
+<b/>17.12 (je)</b> 
+Entretiens, discussion technique et conceptuelle
+
+<b/>07.01 (je)</b> 
+Présentation fonctionnelle
