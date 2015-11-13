@@ -1,1 +1,1 @@
-var IPAddress = '10.192.234.19';
+var IPAddress = 'localhost';
