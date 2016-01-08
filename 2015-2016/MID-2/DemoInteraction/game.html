@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Game</title>
+<style type="text/css">
+	body{margin:0px;background-color: #000;margin:50px;}
+	input[type="button"]{
+		position:absolute;
+		right:0px;
+		top:0px;
+	}
+	.case{
+		width:50px;
+		height:50px;
+		border: solid 1px #ffffff;
+		float:left;
+		position:relative;
+
+		background-color: red;
+	}
+
+	#piece{
+			position:absolute;
+			width:38px;
+			height:50px;
+			background-image: url('data/gael.png');
+	}
+
+	#support{
+
+		position:absolute;
+		top:0px;
+		left:0px;
+	}
+
+	#maCase_4{
+
+		background-color: blue;
+	}
+#output{color:#ffffff;}
+
+</style>
+</head>
+
+<body>
+<div id="output"> Hello world</div>
+
+<script type="text/javascript" src="js/ipAddress.js"></script>
+<script type="text/javascript" src="js/Demo.js"></script>
+<script type="text/javascript" src="js/game.js"></script>
+<script type="text/javascript" src="js/socket_connection.js"></script>
+<input type="button" onclick="game.reset();" />
+</body>
+</html>
