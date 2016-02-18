@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Game</title>
+<style type="text/css">
+	body{
+		margin:0px;
+		background-color: #000;
+		overflow: hidden
+	}
+
+	input[type="button"]{
+		position:absolute;
+		right:0px;
+		top:0px;
+	}
+	.case{
+		width:50px;
+		height:50px;
+		border: solid 1px #ffffff;
+		float:left;
+		position:relative;
+
+		background-color: red;
+	}
+
+	#piece{
+			position:absolute;
+			width:38px;
+			height:50px;
+			background-image: url('data/gael.png');
+	}
+
+	#support{
+
+		position:absolute;
+		top:0px;
+		left:0px;
+	}
+
+	canvas {
+		width: 100% !important;
+		height:100% !important;
+	}
+</style>
+</head>
+
+<body>
+
+<canvas id="canvas"></canvas>
+<script type="text/javascript" src="js/target.js"></script>
+<script type="text/javascript" src="js/player.js"></script>
+<script type="text/javascript" src="js/wall.js"></script>
+<script type="text/javascript" src="js/case.js"></script>
+<script type="text/javascript" src="js/ipAddress.js"></script>
+<script type="text/javascript" src="js/Jeu.js"></script>
+<script type="text/javascript" src="js/gameSimple.js"></script>
+<script type="text/javascript" src="js/socket_connectionSimple.js"></script>
+<!--<input type="button" onclick="game.reset();" />  -->
+</body>
+</html>
