@@ -15,7 +15,7 @@ On introduira également la notion de scénario interactif et live, ainsi que l�
 <br/>
 <b>Technologie</b><br/>
 Javascript, processing, html, css.<br/><br/>
-<b>Rendu<b><br/>
+<b>Rendu</b><br/>
 Performance de marionnettiste numérique accompagné de son.<br/>
 <br/>
 <b>Calendrier</b><br/>
