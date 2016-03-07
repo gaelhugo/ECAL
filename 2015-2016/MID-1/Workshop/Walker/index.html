@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <script type="text/javascript" src="js/MIDI_CONNECTION.js"></script>
+    <script type="text/javascript" src="js/three.min.js"></script>
+    <script type="text/javascript" src="js/OrbitControls.js"></script>
+    <script type="text/javascript" src="js/Connector.js"></script>
+    <script type="text/javascript" src="js/Node.js"></script>
+    <script type="text/javascript" src="js/Skeleton.js"></script>
+    <script type="text/javascript" src="js/App.js"></script>
+
+    <style>
+      body{padding:0px;margin:0px;background-color:#000000;}
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+      var app   = new App();
+      var midi  = new MIDI_CONNECTION(app);
+    </script>
+  </body>
+</html>

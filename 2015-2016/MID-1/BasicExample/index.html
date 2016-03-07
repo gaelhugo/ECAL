@@ -2,17 +2,20 @@
   <head>
     <meta charset="utf-8">
     <title>MIDI CONTROLLER</title>
+    <script type="text/javascript" src="js/utils.js"></script>
     <script type="text/javascript" src="js/MIDI_CONNECTION.js"></script>
     <script type="text/javascript" src="js/Ball.js"></script>
-    <script type="text/javascript" src="js/DemoApp.js"></script>
+    <script type="text/javascript" src="js/app_cours.js"></script>
     <style type="text/css">
       body{margin:0px;padding:0px;}
     </style>
 </head>
 <body>
+
   <canvas id="canvas"></canvas>
+
   <script type="text/javascript" >
-    var app   = new DemoApp();
+    var app   = new app();
     var midi  = new MIDI_CONNECTION(app);
   </script>
 </body>
