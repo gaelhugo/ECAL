@@ -13,7 +13,7 @@ var App = function(){
   this.gridDelta    = {"x":0,"y":1};   // Décalage du défilement dans la grille (En unité de sphere)
   this.speed        = 0.2;                 // Vitesse de défilement du texte
   this.red          = new THREE.Color(1,0,0);
-  this.white        =vnew THREE.Color(1,1,1);
+  this.white        = new THREE.Color(1,1,1);
 
   //positions
   this.target       = {"explode":[],"grid":[],"sphere":[]}; // séquence pour les transformations
